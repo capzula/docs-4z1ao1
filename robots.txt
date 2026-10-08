@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-a3je3c.kabarbahagia.sbs/sitemap.xml
